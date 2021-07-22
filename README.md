@@ -1,2 +1,2 @@
 # Digital-Image-Processing
-DIP Lab
+DIP Lab (7th sem)
